@@ -33,6 +33,10 @@ node0=>operation: clone hexo repository
 
 node0->node1->node2(right)->node3(right)->node4
 ```
+和新建一个hexo项目执行hexo init不同的是，在clone hexo的目录下，执行
+```
+npm install
+```
 
 ## Config
 
